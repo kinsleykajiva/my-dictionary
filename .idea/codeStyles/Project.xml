@@ -1,0 +1,10 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <codeStyleSettings language="JAVA">
+      <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
+      <option name="SPACE_AROUND_METHOD_REF_DBL_COLON" value="true" />
+      <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+      <option name="KEEP_MULTIPLE_EXPRESSIONS_IN_ONE_LINE" value="true" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
