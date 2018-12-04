@@ -1,0 +1,141 @@
+.root{
+}
+
+
+.button-search {
+  -fx-background-color:
+       -fx-shadow-highlight-color,
+       -fx-outer-border,
+       -fx-inner-border,
+       -fx-body-color;
+ /* -fx-background-insets: 0 0 -1 0, 0, 1, 2;*/
+   -fx-border-radius: 5 5 5 5;
+  /*-fx-background-radius: 3 3 2 1;*/
+}
+.curvey_corner{
+ -fx-border-radius: 0 0 10 10;
+  -fx-background-radius: 0 0 10 10;
+}
+.cardview{
+-fx-effect: dropshadow(gaussian, rgb(0.0, 0.0, 0.0, 0.15), 6.0, 0.7, 0.0,1.5);
+-fx-background-color: white;
+}
+.simple_cardview{
+-fx-effect: dropshadow(gaussian, rgb(0.0, 0.0, 0.0, 0.15), 6.0, 0.7, 0.0,1.5);
+
+}
+.text-field
+{
+    -fx-prompt-text-fill: #fff; /*Yellow - floating label*/
+    -fx-text-fill: #fff; /*Yellow - input color*/
+    -fx-highlight-fill: #4eb769; /*Green*/
+}
+
+.scroll-pane {
+   -fx-background-color: transparent;
+}
+.scroll-pane > .viewport {
+   -fx-background-color: transparent;
+}
+
+.jfx-list-cell-container {
+    -fx-alignment: center-left;
+}
+
+.jfx-list-cell-container > .label {
+    -fx-text-fill: BLACK;
+}
+
+.jfx-list-cell:odd:selected > .jfx-rippler > StackPane, .jfx-list-cell:even:selected > .jfx-rippler > StackPane {
+    -fx-background-color: rgba(0, 0, 255, 0.2);
+}
+
+.jfx-list-cell {
+    -fx-background-insets: 0.0;
+    -fx-text-fill: BLACK;
+}
+
+.jfx-list-cell:odd, .jfx-list-cell:even {
+    -fx-background-color: WHITE;
+}
+
+.jfx-list-cell:filled:hover {
+    -fx-text-fill: black;
+}
+
+.jfx-list-cell .jfx-rippler {
+    -jfx-rippler-fill: BLUE;
+}
+
+.jfx-list-view {
+    -fx-background-insets: 0;
+    -jfx-cell-horizontal-margin: 0.0;
+    -jfx-cell-vertical-margin: 5.0;
+    -jfx-vertical-gap: 10;
+    -jfx-expanded: false;
+    -fx-pref-width: 200;
+}
+jfx-list-cell-content-container {
+    -fx-alignment: center-left;
+}
+
+.jfx-list-cell-container .label {
+    -fx-text-fill: BLACK;
+}
+
+
+.jfx-snackbar-content {
+    -fx-background-color: #323232;
+    -fx-padding: 5;
+    -fx-spacing: 5;
+}
+
+.jfx-snackbar-toast {
+    -fx-text-fill: WHITE;
+}
+
+.jfx-snackbar-action {
+    -fx-text-fill: #ff4081;
+}
+
+
+/* The main scrollbar **track** CSS class  */
+.mylistview .scroll-bar:horizontal .track,
+.mylistview .scroll-bar:vertical .track {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0em;
+    -fx-border-radius: 2em;
+}
+
+/* The increment and decrement button CSS class of scrollbar */
+.mylistview .scroll-bar:horizontal .increment-button,
+.mylistview .scroll-bar:horizontal .decrement-button {
+    -fx-background-color: transparent;
+    -fx-background-radius: 0em;
+    -fx-padding: 0 0 10 0;
+}
+
+/* The increment and decrement button CSS class of scrollbar */
+
+.mylistview .scroll-bar:vertical .increment-button,
+.mylistview .scroll-bar:vertical .decrement-button {
+    -fx-background-color: transparent;
+    -fx-background-radius: 0em;
+    -fx-padding: 0 10 0 0;
+
+}
+
+.mylistview .scroll-bar .increment-arrow,
+.mylistview .scroll-bar .decrement-arrow {
+    -fx-shape: " ";
+    -fx-padding: 0;
+}
+
+/* The main scrollbar **thumb** CSS class which we drag every time (movable) */
+.mylistview .scroll-bar:horizontal .thumb,
+.mylistview .scroll-bar:vertical .thumb {
+    -fx-background-color: derive(black, 90%);
+    -fx-background-insets: 2, 0, 0;
+    -fx-background-radius: 2em;
+}

@@ -1,0 +1,8 @@
+INSERT INTO `entries` VALUES
+
+
+
+
+
+
+

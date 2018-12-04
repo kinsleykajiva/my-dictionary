@@ -1,7 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f6c9729-7cd4-4849-ad79-57337a5e63f6" name="Default Changelist" comment="" />
+    <list default="true" id="4f6c9729-7cd4-4849-ad79-57337a5e63f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/drawables/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/drawables/dictionary.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/drawables/dictionary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/drawables/dictionary.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/drawables/minimize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/drawables/tray-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/layouts/DefaultController.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/SELECT___FROM__entries_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/dictionary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/dictionaryStudyTool.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/.phpintel/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy (3) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (3) - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (3) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (3) - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (3) - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (3) - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (3) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (3) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (4) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (4) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (4) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (5) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (5).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy (6).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (2) - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (2) - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (2) - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (2) - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (3) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (3) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (3) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (4) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy (5).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy (3) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (2) - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (2) - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (2) - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (2) - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (3) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (3) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (3) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (4) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy (5).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy (3) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy (3) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (4) - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (4) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (4) - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (4) - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (4) - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (4) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (4) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (5) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (5) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (5) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (5).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (6) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (6).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy (7).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy (3) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (3) - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (3) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (3) - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (3) - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (3) - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (3) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (3) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (4) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (4) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (4) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (5) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (5).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy (6).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy (2) - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy (2) - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy (3) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy - Copy (2) - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy - Copy (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy - Copy - Copy (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split - Copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/folder-split/dictionarystudytool-split.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/dictionary/tx.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/webstar/dictionary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/raw/webstar/dictionary_compact.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zw/home/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/home/App.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -53,15 +253,12 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
-              <folding>
-                <element signature="e#320#1506#0" />
-              </folding>
+            <state relative-caret-position="772">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -69,40 +266,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zw/home/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="230">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
                 <element signature="e#498#499#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="28" />
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LICENSE">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -121,11 +302,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/zw/home/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/home/utils/Strings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/module-info.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/module-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zw/home/App.java" />
       </list>
     </option>
   </component>
@@ -176,11 +358,41 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="my.dictionary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-dictionary-v2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my.dictionary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-dictionary-v2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
+          <expand>
+            <path>
+              <item name="my.dictionary" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="my" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="my.dictionary" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="my" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="dictionary" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -191,10 +403,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543849583944" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543850773426" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -202,6 +414,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kajiva kinsley\IdeaProjects\my-dictionary-v2\src\main\resources" />
       <recent name="C:\Users\kajiva kinsley\IdeaProjects\my-dictionary-v2\src\main\java\zw\home\utils" />
     </key>
   </component>
@@ -217,7 +430,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.my-dictionary-v2 [runn]">
+  <component name="RunManager" selected="Application.App">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -387,30 +600,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543838239995</updated>
-      <workItem from="1543838305752" duration="8885000" />
+      <workItem from="1543838305752" duration="9832000" />
+      <workItem from="1543893193095" duration="3106000" />
     </task>
+    <task id="LOCAL-00001" summary="updated the read me">
+      <created>1543850733882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543850733883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8885000" />
+    <option name="totallyTimeSpent" value="12938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20537898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.3290993" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3290993" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3256351" />
@@ -418,21 +634,33 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="JSON Utils" />
-      <window_info anchor="right" id="Gradle" weight="0.3294621" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3290993" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290993" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="JSON Utils" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.3294621" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="updated the read me" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the read me" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/home/utils/Strings.java">
@@ -445,17 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zw/home/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-all/54ye4nru8k2rpf7xwj15he4fo/gradle-4.10/src/core-api/org/gradle/api/Project.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -465,35 +682,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
-          <folding>
-            <element signature="e#320#1506#0" />
-          </folding>
+        <state relative-caret-position="795">
+          <caret line="673" column="49" selection-start-line="673" selection-start-column="49" selection-end-line="673" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <first_editor relative-caret-position="138">
+            <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/home/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/layouts/DefaultController.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -573,7 +811,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <last-edited>Gradle: com.github.ben-manes.caffeine:caffeine:2.6.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
