@@ -9,8 +9,6 @@
 <?import java.lang.String?>
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Label?>
-<?import javafx.scene.control.MenuButton?>
-<?import javafx.scene.control.MenuItem?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.HBox?>
@@ -19,7 +17,7 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane id="parentAnchorPane" fx:id="parentAncherPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="380.0" styleClass="cardview" stylesheets="@../styles/main.css" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="brevity.main.contollers.DefaultController">
+<AnchorPane id="parentAnchorPane" fx:id="parentAncherPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="380.0" style="-fx-background-color: transparent; -fx-border-radius: 0 0 10 10;" styleClass="cardview" stylesheets="@../styles/main.css" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="zw.home.controllers.DefaultController">
    <children>
       <Pane fx:id="titleBar" prefHeight="20.0" prefWidth="380.0" style="-fx-background-color: #7B1FA2;">
          <children>
@@ -53,17 +51,9 @@
             </JFXToolbar>
          </children>
       </Pane>
-      <Pane layoutY="20.0" prefHeight="240.0" prefWidth="380.0" style="-fx-background-color: #9C27B0;">
+      <Pane layoutY="20.0" prefHeight="240.0" prefWidth="380.0" style="-fx-background-color: #9C27B0; -fx-background-radius: 0 0 50 50;">
          <children>
             <JFXToolbar maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="94.0" prefWidth="380.0">
-               <right>
-                  <MenuButton mnemonicParsing="false" style="-fx-background-color: #9C27B0;" textFill="WHITE" BorderPane.alignment="CENTER">
-                    <items>
-                      <MenuItem mnemonicParsing="false" text="Action 1" />
-                      <MenuItem mnemonicParsing="false" text="Action 2" />
-                    </items>
-                  </MenuButton>
-               </right>
                <padding>
                   <Insets right="10.0" />
                </padding>
@@ -75,14 +65,6 @@
                               <Insets bottom="20.0" left="20.0" right="10.0" />
                            </HBox.margin>
                            <children>
-                              <JFXButton fx:id="btnSearch" prefHeight="25.0" prefWidth="308.0" style="-fx-border-color: #FFF;" styleClass="button-search" text="Search" textFill="#f5f5f5" underline="true">
-                                 <graphic>
-                                    <FontAwesomeIconView fill="WHITE" glyphName="SEARCH" />
-                                 </graphic>
-                                 <VBox.margin>
-                                    <Insets bottom="5.0" />
-                                 </VBox.margin>
-                              </JFXButton>
                               <HBox>
                                  <children>
                                     <JFXTextField fx:id="txtSearch" focusColor="#ff4081" prefHeight="25.0" prefWidth="300.0" promptText="Word ...." unFocusColor="#bdbdbd" />
@@ -100,10 +82,17 @@
                      </padding>
                   </HBox>
                </center>
+               <right>
+                  <JFXButton fx:id="btnSearch" prefHeight="27.0" prefWidth="37.0" style="-fx-border-color: #FFF;" styleClass="button-search" textFill="#f5f5f5" underline="true" BorderPane.alignment="CENTER">
+                     <graphic>
+                        <FontAwesomeIconView fill="WHITE" glyphName="SEARCH" />
+                     </graphic>
+                  </JFXButton>
+               </right>
             </JFXToolbar>
          </children>
       </Pane>
-      <Pane layoutX="17.0" layoutY="120.0" prefHeight="462.0" prefWidth="346.0">
+      <Pane layoutX="17.0" layoutY="87.0" prefHeight="495.0" prefWidth="346.0" style="-fx-border-radius: 10 10;">
          <styleClass>
             <String fx:value="cardview" />
             <String fx:value="curvey_corner" />
@@ -152,7 +141,7 @@
                         <Insets left="146.0" />
                      </VBox.margin>
                   </JFXSpinner>
-                  <JFXListView fx:id="listview" prefHeight="420.0" prefWidth="333.0" styleClass="custom-jfx-list-view" />
+                  <JFXListView fx:id="listview" prefHeight="457.0" prefWidth="333.0" styleClass="custom-jfx-list-view" />
                </children>
             </VBox>
          </children></Pane>
