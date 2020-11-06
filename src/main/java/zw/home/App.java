@@ -105,6 +105,7 @@ public class App  extends Application {
      * Shows the application stage and ensures that it is brought ot the front of all stages.
      */
     private void showStage() {
+        System.out.println("..showing stage ....");
         if (getStage() != null) {
             getStage().show();
             getStage().toFront();
