@@ -47,18 +47,4 @@ public class StageManager {
             Platform.exit();
         }
     }
-    public static void setRoot (Parent root) {
-        stage.getScene().setRoot(root);
-    }
-    public static void setPane (AnchorPane pane) {
-        StageManager.pane = pane;
-    }
-
-    public static void setPaneFragment (Parent root) {
-        StageManager.pane.getChildren().setAll(root);
-    }
-
-    public static Stage getStage () {
-        return stage;
-    }
 }
