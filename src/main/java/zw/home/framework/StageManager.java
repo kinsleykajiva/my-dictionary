@@ -47,6 +47,8 @@ public class StageManager {
             Platform.exit();
         }
     }
+    
+    // 
     public static void setRoot (Parent root) {
         stage.getScene().setRoot(root);
     }
